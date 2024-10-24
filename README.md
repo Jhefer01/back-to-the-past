@@ -84,3 +84,19 @@ Una vez que hayan entregado su pull request, el destino del Proyecto Phoenix est
 El reto de **"Back to the Past - Proyecto Phoenix"** no es solo técnico, es un viaje en el tiempo, una misión para restaurar el código que una vez tuvo potencial. Esta actividad busca que los estudiantes no solo aprendan sobre **Git**, **HTML**, y **CSS**, sino que también experimenten lo que es trabajar en un proyecto real, colaborativo y basado en control de versiones.
 
 Como Restauradores del Tiempo, su objetivo es simple pero crucial: ¡salvar el código, salvar el futuro!
+
+# cambios 
+# Encabezado con logotipo:
+
+Agregué una imagen de logotipo (logo.png) en el encabezado que se ubica en la parte superior izquierda. Esto ayuda a reforzar la identidad visual del sitio.
+La posición de la imagen está controlada con position: absolute para que no interfiera con el contenido del encabezado.
+# Imágenes en las secciones:
+
+Para las secciones de "Nuestro Propósito" y "Sobre Nosotros", agregué imágenes relacionadas (purpose.jpg y team.jpg) que mejoran la presentación visual del contenido y hacen que la página sea más atractiva.
+Las imágenes tienen bordes redondeados y una sombra sutil para darles un efecto flotante y más estético.
+# Botones y colores:
+
+Mantengo los botones con el estilo atractivo, donde cambian de color cuando pasas el cursor sobre ellos, para fomentar la interacción del usuario.
+# Footer con íconos de redes sociales:
+
+También añadí íconos de redes sociales (Facebook, Twitter,) en el pie de página para hacer el diseño más completo. Los íconos tienen un efecto de cambio de color al pasar el mouse sobre ellos.
